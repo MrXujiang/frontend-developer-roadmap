@@ -17,6 +17,7 @@
 3. **day.js** 一个轻量的处理时间和日期的 JavaScript 库，和 Moment.js 的 API 设计保持完全一样, 体积只有2kb
 4. **big.js** 一个小型，快速的JavaScript库，用于任意精度的十进制算术运算
 5. **qs** 一个 url参数转化 (parse和stringify)的轻量级js库
+6. **decimal.js** 实现JavaScript的任意精度的十进制类型库
 
 ## dom库
 
@@ -77,3 +78,22 @@
 9. **Grade** 一个基于图像中的前2种主要颜色生成互补渐变背景的库
 
 以上这些js库不必每一样都去了解和深究, 技术都是为业务服务的, 所以我们按需使用和学习即可. 至于像react或者vue这种框架的相关生态, 笔者这里就不一一介绍了, 官网文档上都有非常详细的生态集, 感兴趣的朋友自行了解即可. 
+
+## Partner project
+* [Blink - 一款自定义的生成故障艺术动画的组件库](https://github.com/MrXujiang/blink)
+* [H5-Dooring | 一个所见即所得的H5编辑器](https://github.com/MrXujiang/h5-Dooring)
+
+
+## 持续更新 | Continuous upgrades
+每周定期更新, 敬请期待...
+
+<img src="http://io.nainor.com/uploads/WechatIMG2_1742b586c3d.jpeg" width="180px" />
+
+## 技术反馈和交流 | Technical feedback and communication
+微信：beautifulFront
+
+
+<img src="http://io.nainor.com/uploads/code_1741c445027.png" width="180px" />
+
+## 技术交流群(加作者微信进群) | chat whit author
+<img src="http://io.nainor.com/uploads/WechatIMG3_175231f6420.jpeg" width="180px" />
