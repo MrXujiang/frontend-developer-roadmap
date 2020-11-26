@@ -94,8 +94,6 @@
 ## 持续更新 | Continuous upgrades
 每周定期更新, 敬请期待...
 
-<img src="http://io.nainor.com/uploads/WechatIMG2_1742b586c3d.jpeg" width="180px" />
-
 ## 技术反馈和交流 | Technical feedback and communication
 微信：beautifulFront
 
