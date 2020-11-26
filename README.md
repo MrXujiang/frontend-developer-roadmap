@@ -19,6 +19,12 @@
 5. **qs** 一个 url参数转化 (parse和stringify)的轻量级js库
 6. **decimal.js** 实现JavaScript的任意精度的十进制类型库
 
+## 表单校验
+
+1. **Validator.js** 一个强大的js表单校验库, github地址: https://github.com/validatorjs/validator.js
+2. **Validate.js** 致力于提供一种验证数据的跨框架和跨语言方式的js库, 已通过100％代码覆盖率的单元测试  github地址: https://github.com/ansman/validate.js
+
+
 ## dom库
 
 ![](https://imgkr2.cn-bj.ufileos.com/4f24ff47-2fa1-4b21-bff4-5bf5fb641a28.png?UCloudPublicKey=TOKEN_8d8b72be-579a-4e83-bfd0-5f6ce1546f13&Signature=3SXuiSkxST%252Fm1GXkwNZDUtEurlU%253D&Expires=1606373747)
@@ -55,6 +61,7 @@
 7. **Typed.js** 一个轻松实现打字效果的js插件
 8. **fullPage.js** 一个可轻易创建全屏滚动网站的js滚动动画库, 兼容性无可替代
 9. **iscroll** 移动端使用的一款轻量级滚动插件
+10. **swiper.js** 一款强大的js跨端触摸滑动插件, 使用地址: https://www.swiper.com.cn/api/index.html
 
 ## 鼠标/键盘相关
 
