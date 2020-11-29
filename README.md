@@ -63,6 +63,7 @@
 9. **iscroll** 移动端使用的一款轻量级滚动插件
 10. **swiper.js** 一款强大的js跨端触摸滑动插件, 使用地址: https://www.swiper.com.cn/api/index.html
 11. **MixItUp** 是用于DOM操作的高性能，无依赖库，使您能够使用精美的动画过滤，排序，添加和删除DOM元素的js动画库
+12. **Lottie** 一个用于Android，iOS，Web和Windows的库，用于解析使用Bodymovin导出为json的Adobe After Effects动画，并在移动设备和网络上呈现它们, github: https://github.com/airbnb/lottie-web
 
 ## 鼠标/键盘相关
 
