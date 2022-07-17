@@ -84,6 +84,8 @@
 
 ## React 相关库
 
+[react-cropper-pro | 图片一键上传/裁切/压缩](https://github.com/MrXujiang/react-cropper-pro)
+
 ## Vue 相关库
 
 ## Nodejs 相关库
