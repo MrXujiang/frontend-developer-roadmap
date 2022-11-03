@@ -83,8 +83,8 @@
 #### 表单表格
 
 1. [**x-spreadsheet**](https://github.com/myliang/x-spreadsheet) 一个基于 web 的简单易用的表格插件
-2. [**rc-table](https://www.npmjs.com/package/rc-table) 高性能可扩展的Table组件库
-3. [grid.js](https://gridjs.io/docs/examples/stock-market) 支持多框架的高级表格插件
+2. [**rc-table**](https://www.npmjs.com/package/rc-table) 高性能可扩展的Table组件库
+3. [**grid.js**](https://gridjs.io/docs/examples/stock-market) 支持多框架的高级表格插件
 
 ## Css 相关库
 
