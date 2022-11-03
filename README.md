@@ -77,10 +77,14 @@
 8. [**cropperjs**](https://github.com/fengyuanchen/cropperjs) 一款强大的图片裁切库, 支持灵活的图片裁切方式
 9. [**Grade**](https://github.com/benhowdle89/grade) 一个基于图像中的前 2 种主要颜色生成互补渐变背景的库
 
+#### 可视化
+1. [**chartist**](https://gionkunz.github.io/chartist-js/api-documentation.html) 非常轻量的可视化图表库
+
 #### 表单表格
 
 1. [**x-spreadsheet**](https://github.com/myliang/x-spreadsheet) 一个基于 web 的简单易用的表格插件
 2. [**rc-table](https://www.npmjs.com/package/rc-table) 高性能可扩展的Table组件库
+3. [grid.js](https://gridjs.io/docs/examples/stock-market) 支持多框架的高级表格插件
 
 ## Css 相关库
 
