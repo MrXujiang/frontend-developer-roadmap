@@ -121,6 +121,3 @@
 
 
 <img src="http://cdn.dooring.cn/dr/qtqd_code.png" width="180px" />
-
-## 技术交流群(加作者微信进群) | chat whit author
-<img src="http://cdn.dooring.cn/dr/lowcode.jpeg" width="180px" />
