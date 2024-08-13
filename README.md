@@ -7,9 +7,10 @@
 
 ## Relative developer-roadmap
 * [React学习必备](https://github.com/MrXujiang/frontend-developer-roadmap/blob/main/React.md)
-* [完整前端成长路线](http://h5.dooring.cn/blog/guides/afrontend)
-* [前端可视化技术文档](http://h5.dooring.cn/docz)
-* [HelloWorld开发者社区, 你要的技术都在这里](https://https://www.helloworld.net)
+* [AI+文档知识库](http://doc.dooring.vip)
+* [可视化营销工具](https://dooring.vip)
+
+更多技术干货和技术社群, 请关注公众号 **趣谈前端**.
 
 ## Javascript 项目库
 
@@ -22,6 +23,7 @@
 5. [**big.js**](https://github.com/MikeMcl/big.js/) 一个小型，快速的 JavaScript 库，用于任意精度的十进制算术运算
 6. [**qs**](https://github.com/ljharb/qs) 一个 url 参数转化 (parse 和 stringify)的轻量级 js 库
 7. [**decimal.js**](https://github.com/MikeMcl/decimal.js/) 实现 JavaScript 的任意精度的十进制类型库
+8. [immutability-helper]([immutability-helper](https://github.com/kolodny/immutability-helper)) 改变数据副本而不改变原始来源的js操作库
 
 #### 表单校验
 
@@ -87,6 +89,11 @@
 3. [**grid.js**](https://gridjs.io/docs/examples/stock-market) 支持多框架的高级表格插件
 
 ## Css 相关库
+
+1. [**Bulma**](https://github.com/jgthms/bulma) 简洁的现代 CSS 框架
+2. [**Materialize**](https://github.com/Dogfalo/materialize) 基于 Material Design 的 CSS 框架
+3. [**Pure CSS**](https://github.com/yahoo/pure) 轻量级的 CSS 库
+4. [**Tailwind CSS**](https://github.com/tailwindlabs/tailwindcss) 实用的原子化 CSS 框架
 
 ## React 相关库
 
