@@ -1,5 +1,7 @@
 为了提高大家开发 `React` 项目的效率, 笔者结合自己的实际工作经验, 汇总如下`React`项目常用插件.
 
+后续统一在主页维护~
+
 ### 1. 状态管理
 
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b459fe583288465890965fc46c2a29df~tplv-k3u1fbpfcp-zoom-1.image)
